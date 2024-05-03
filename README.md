@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Alexey</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/></h1>
-<h3 align="center">HSE computer science student from Russia 🇷🇺</h3>
+<img src="https://github.com/AKisliy/AKisliy/assets/124510676/7a3a4957-4a67-4aa2-b21c-a146fd30d6a9" height="32" width="32"/></h1>
+<h3 align="center">Beginner .NET developer, HSE CS student🎓</h3>
 
 ## 👨‍💻 About me
 - 🎓 I'm HSE computer science student from Russia 🇷🇺
@@ -18,24 +18,24 @@
 <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
 <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img height="48" width="48" src="https://cdn.simpleicons.org/gnubash" />     
+<img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain.svg" />     
 </ul>
 <ul>
   <img  height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />     
 </ul>
 
 ## 🏆 GitHub profile trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=AKisliy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AKisliy&theme=onedark&column=3&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🔥 Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AKisliy)](https://git.io/streak-stats)
-
-## 📊 Stats
+## 🔥 Stats
 ### LeetCode 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Kisliy&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+![LeetCode stats](metrics.plugin.leetcode.svg)
 
-## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKisliy)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🤳 Contact me
+<img height="32" width="32" src="https://cdn.simpleicons.org/telegram/26a5e4" />
 <!---
 AKisliy/AKisliy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
