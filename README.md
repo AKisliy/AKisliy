@@ -38,7 +38,7 @@
 
 <p style="display:inline-block;">
   <img height="32" width="32" src="https://cdn.simpleicons.org/telegram/26a5e4" align="middle"/> 
-  <a href="t.me/devilsolicitor">My Telegram</a>
+  <a href="https://t.me/devilsolicitor">My Telegram</a>
 </p>
 <p style="display:inline-block;">
   <img height="32" width="32" src="https://cdn.simpleicons.org/maildotru" align="middle"/>  
