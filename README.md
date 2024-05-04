@@ -35,7 +35,17 @@
 
 
 ## 🤳 Contact me
-<img height="32" width="32" src="https://cdn.simpleicons.org/telegram/26a5e4" />
+
+<p style="display:inline-block;">
+  <img height="32" width="32" src="https://cdn.simpleicons.org/telegram/26a5e4" align="middle"/> 
+  <a href="t.me/devilsolicitor">My Telegram</a>
+</p>
+<p style="display:inline-block;">
+  <img height="32" width="32" src="https://cdn.simpleicons.org/maildotru" align="middle"/>  
+  lekha.a-kisel@yandex.ru
+</p> 
+
+
 <!---
 AKisliy/AKisliy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
