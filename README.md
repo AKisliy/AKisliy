@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Alexey</a> 
 <img src="https://github.com/AKisliy/AKisliy/assets/124510676/7a3a4957-4a67-4aa2-b21c-a146fd30d6a9" height="32" width="32"/></h1>
-<h3 align="center">Beginner .NET developer, HSE CS student🎓</h3>
+<h3 align="center">.NET developer, HSE CS student🎓</h3>
 
 ## 👨‍💻 About me
 - 🎓 I'm HSE computer science student from Russia 🇷🇺
