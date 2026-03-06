@@ -66,7 +66,7 @@
                         <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x614</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x233</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x229</span></div>
-                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x174</span></div>
+                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x175</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x162</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x153</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x122</span></div>
@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Special Positions in a Binary Matrix</div>
-                            <div class="date">4 Mar 2026</div>
+                            <div class="title">Minimum Changes To Make Alternating Binary String</div>
+                            <div class="date">5 Mar 2026</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Find Kth Bit in Nth Binary String</div>
-                            <div class="date">3 Mar 2026</div>
+                            <div class="title">Special Positions in a Binary Matrix</div>
+                            <div class="date">4 Mar 2026</div>
                         </div>
                     </div>
                 </section>
